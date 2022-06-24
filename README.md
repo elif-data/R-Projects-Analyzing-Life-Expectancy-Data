@@ -8,7 +8,6 @@ Using visualizations, we can start to explore 2 questions from the dataset:
   1. How does the average life expectancy of men and women differ across countries between "2000-2005".
   2. How does the average life expectancy of men and women differ across countries between "1985-1990" and "2000-2005". 
   
-
 Implementation of a DataCamp project hosted by Antonio Sánchez Chinchón.
 
 Source of data: [United Nations Statistics Division](http://data.un.org/Data.aspx?d=GenderStat&f=inID:37&c=1,2,3,4,5,6&s=crEngName:asc,sgvEngName:asc,timeEngName:desc&v=1/).
