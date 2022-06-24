@@ -1,4 +1,4 @@
-# Visualizing Inequalities in Life Expectancy (R, ggplot2)
+# Visualizing Inequalities in Life Expectancy
 
 We'll be working with a dataset that contains the average life expectancies of men and women from around the world. It covers 195 countries,and 4 periods which are 985-1990, 1990-1995, 1995-2000, and 2000-2005.
 
