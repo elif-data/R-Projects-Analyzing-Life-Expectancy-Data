@@ -10,7 +10,7 @@ Using visualizations, we can start to explore 2 questions from the dataset:
 I have uploaded my code from R, and also added the jupyter notebook 
 
 
-Check it out on my workspace [my workspace on datacamp](https://app.datacamp.com/workspace/w/7e1fbd84-5441-46a6-9e0d-6eddfe716651/edit/).
+Check it out on [my workspace on datacamp](https://app.datacamp.com/workspace/w/7e1fbd84-5441-46a6-9e0d-6eddfe716651/edit/).
 
 
 Implementation of a DataCamp project hosted by Antonio Sánchez Chinchón.
