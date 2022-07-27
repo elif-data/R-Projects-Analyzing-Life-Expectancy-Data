@@ -7,7 +7,10 @@ Using visualizations, we can start to explore 2 questions from the dataset:
   1. How does the average life expectancy of men and women differ across countries between "2000-2005".
   2. How does the average life expectancy of men and women differ across countries between "1985-1990" and "2000-2005". 
 
-I have uploaded my code from R but if you'd like to see it in jupyter notebook please check out [my workspace on datacamp](https://app.datacamp.com/workspace/w/7e1fbd84-5441-46a6-9e0d-6eddfe716651/edit/).
+I have uploaded my code from R, and also added the jupyter notebook 
+
+
+Check it out on my workspace [my workspace on datacamp](https://app.datacamp.com/workspace/w/7e1fbd84-5441-46a6-9e0d-6eddfe716651/edit/).
 
 
 Implementation of a DataCamp project hosted by Antonio Sánchez Chinchón.
